@@ -3,11 +3,14 @@
 Question: What is the problem I am approaching with this heart failur prediction dataset aquired from Kaggle
 <br>
 Data Decription: 
-<br>
 
-[Heart Failure Prediction Dataset.](https://www.kaggle.com/fedesoriano/heart-failure-prediction)
+[Heart Failure Prediction Dataset.](https://www.kaggle.com/fedesoriano/heart-failure-prediction) this is my main source of data. This data set is a collection 
 
 <br>
 Tools:
+<br>
+
+Google sheets will be the tool that will be implimented. As well as maybe SQL and SQLite
+
 <br>
 MVP Goal:
