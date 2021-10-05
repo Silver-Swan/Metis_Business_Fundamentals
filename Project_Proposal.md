@@ -5,7 +5,6 @@ Question:<br> Cardiovascular diseases (CVD) or commonly known as heart disease i
 <br> Data Decription: <br>
 [Heart Failure Prediction Dataset.](https://www.kaggle.com/fedesoriano/heart-failure-prediction) is my main source of data. The features in the data set are sex, race, smoker, diabetic, high blood pressure (hypertensive), age, maximum blood pressure (systolic), cholesterol, HDL cholesterol, and ASCVD risk score. The ASCVD risk score is a national guideline developed by the American College of Cardiology. It is a calculation of the person 10-year risk of having a cardiovascular problem, such as heart attack or stroke. For more information on ASCVD [https://arupconsult.com](https://arupconsult.com/content/cardiovascular-disease-traditional-risk-markers)
 
-<br>
 Tools: 
 <br>
 Google sheets will be the tool that will be implimented. As well as maybe SQL and SQLite. <br>
