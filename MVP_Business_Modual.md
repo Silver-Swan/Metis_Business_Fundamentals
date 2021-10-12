@@ -3,4 +3,4 @@ Graph:<br> ![Distribution of Cholesterol Between Male and Female](https://github
 <br>
 - graph represent first
 - graph represent two
-Graph:<br> ![]()
+Graph:<br> ![Annual Cost for Health Failure (per patient)](https://github.com/Silver-Swan/Metis_Business_Fundamentals/blob/main/images/Annual%20Cost%20for%20Heart%20Failure%20(per%20patient).png)
