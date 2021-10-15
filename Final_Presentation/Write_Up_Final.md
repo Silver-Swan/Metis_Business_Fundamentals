@@ -9,4 +9,8 @@ To determine if a data science model will assist doctors and the hospital, I col
 
 ## Data
 The data set used was from [Kaggle](https://www.kaggle.com/mokar2001/ascvd-heart-risk). The data set had the features of male or female, African American or not, smoker or not, diabetic or not, hypertensive or not, age, systolic, cholesterol level, HDL level, and ASCVD Risk percentage. ASCVD or Atherosclerotic Cardiovascular Disease. Which is a calculation of a patient's 10 year risk of having a cardiovascular problem. such as a heart attack or stroke. Other resources were used like the information on [Heart Disease Facts](https://www.cdc.gov/heartdisease/facts.htm) and [A paper on medical cost.](https://link.springer.com/article/10.1007/s40273-020-00952-0#Fig2)
+## Algorithms
+
 ## Tools
+- Google Sheets
+- Tableau
