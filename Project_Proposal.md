@@ -7,7 +7,7 @@ Question:<br> Cardiovascular diseases (CVD) or commonly known as heart disease i
 
 Tools: 
 <br>
-Google sheets will be used to list the data gotten from the Kaggle website.. As well as maybe SQL and SQLite. For visualization, Tableau will be utilized.<br>
+Google sheets will be used to list the data gotten from the Kaggle website. As well as maybe SQL and SQLite. For visualization, Tableau will be utilized.<br>
 <br>
 MVP Goal:
 <br>
